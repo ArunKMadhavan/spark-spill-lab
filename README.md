@@ -1,6 +1,7 @@
 # Spark Sort Merge Join: Spill, Bucketing, and Bucket Count
 
-Companion repo for the article [I Bucketed My Spark Join to Fix Spill. It Still Spilled. Here's What I Missed]https://medium.com/@arunkumarmadhavannair/i-bucketed-my-spark-join-to-fix-spill-it-still-spilled-heres-what-i-missed-04df04c1c5af?sharedUserId=arunkumarmadhavannair
+Companion repo for the article [I Bucketed My Spark Join to Fix Spill. It Still Spilled. 
+[I Bucketed My Spark Join to Fix Spill. It Still Spilled. Here's What I Missed](https://medium.com/@arunkumarmadhavannair/i-bucketed-my-spark-join-to-fix-spill-it-still-spilled-heres-what-i-missed-04df04c1c5af)
 
 A minimal, reproducible Spark cluster and three PySpark scripts that walk through:
 
